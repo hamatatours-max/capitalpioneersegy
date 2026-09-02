@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- 1. Homepage -->
+  <url>
+    <loc>https://capitalpioneers.com/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://capitalpioneers.com/images/brand/capital-pioneers-ad-poster.png</image:loc>
+      <image:title>Capital Pioneers Real Estate Egypt</image:title>
+    </image:image>
+  </url>
+
+  <!-- 2. Projects Catalog Page -->
+  <url>
+    <loc>https://capitalpioneers.com/projects</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 3. Capital Pioneers Red Sea Dedicated Landing Page -->
+  <url>
+    <loc>https://capitalpioneers.com/capital-pioneers-red-sea</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://capitalpioneers.com/images/brand/capital-pioneers-ad-poster.png</image:loc>
+      <image:title>Capital Pioneers Red Sea Real Estate</image:title>
+    </image:image>
+  </url>
+
+  <!-- 4. Dynamic Project: Capital Medical Complex Al Shouyfat New Cairo -->
+  <url>
+    <loc>https://capitalpioneers.com/projects/capital-medical-complex-shouyfat</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://capitalpioneers.com/images/brand/capital-pioneers-ad-poster.png</image:loc>
+      <image:title>Capital Medical and Commercial Complex in Al Shouyfat Fifth Settlement</image:title>
+    </image:image>
+  </url>
+
+  <!-- 5. Dynamic Project: Hurghada Waterfront Residences Red Sea -->
+  <url>
+    <loc>https://capitalpioneers.com/projects/hurghada-waterfront-resort-residences</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://capitalpioneers.com/images/brand/capital-pioneers-ad-poster.png</image:loc>
+      <image:title>Hurghada Waterfront Residences Red Sea</image:title>
+    </image:image>
+  </url>
+
+  <!-- 6. Dynamic Project: El Gouna Lagoon Front Villas & Penthouses -->
+  <url>
+    <loc>https://capitalpioneers.com/projects/el-gouna-lagoon-front-villas-penthouses</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- 7. Dynamic Project: Sahl Hasheesh Bay Panoramic Villas -->
+  <url>
+    <loc>https://capitalpioneers.com/projects/sahl-hasheesh-bay-panoramic-villas</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- 8. Dynamic Project: New Capital Iconic Business Tower CBD -->
+  <url>
+    <loc>https://capitalpioneers.com/projects/iconic-business-financial-tower-cbd</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- 9. Dynamic Project: North 90 Lifestyle Commercial Plaza -->
+  <url>
+    <loc>https://capitalpioneers.com/projects/north-90-lifestyle-commercial-plaza</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- 10. Dynamic Project: Mostakbal City Masterplanned Community -->
+  <url>
+    <loc>https://capitalpioneers.com/projects/mostakbal-city-green-masterplanned-compound</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 11. About Us -->
+  <url>
+    <loc>https://capitalpioneers.com/about</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 12. Services & Advisory -->
+  <url>
+    <loc>https://capitalpioneers.com/services</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 13. Contact Desk -->
+  <url>
+    <loc>https://capitalpioneers.com/contact</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

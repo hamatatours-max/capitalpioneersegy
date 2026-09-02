@@ -1,0 +1,20 @@
+# Robots.txt for Capital Pioneers Real Estate
+# Website: https://capitalpioneers.com
+
+User-agent: *
+Allow: /
+Allow: /projects
+Allow: /projects/*
+Allow: /capital-pioneers-red-sea
+Allow: /about
+Allow: /services
+Allow: /contact
+Allow: /images/
+
+# Disallow administrative or internal utility paths
+Disallow: /api/
+Disallow: /admin/
+Disallow: /draft/
+
+# Sitemaps
+Sitemap: https://capitalpioneers.com/sitemap.xml
